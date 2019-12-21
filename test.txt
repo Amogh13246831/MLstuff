@@ -1,0 +1,2 @@
+this is a test sentence for the sequence generation RNN
+
